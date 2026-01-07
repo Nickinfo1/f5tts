@@ -53,7 +53,7 @@ try:
         vocab_file="",
         ref_audio="./../../work_data/audio/ref.wav",
         ref_text="Где-то падал снег, а я был в теплом месте. Где все ваши инструменты? Необходимо их взять с собой.",
-        device="cpu"
+        device="gpu"
     )
 
     # Start the server
